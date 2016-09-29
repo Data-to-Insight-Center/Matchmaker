@@ -10,11 +10,11 @@ Steps to build:
 https://github.com/Data-to-Insight-Center/Curbee/tree/master/services/sead-monitoring
 mvn clean install -DskipTests
 ~~~
-1) Checkout the Matchmaker repository from Github
+2) Checkout the Matchmaker repository from Github
 ~~~
 git clone https://github.com/Data-to-Insight-Center/Matchmaker.git
 ~~~
-2) Move the to root directory and execute following command.
+3) Move the to root directory and execute following command.
 ~~~
 mvn clean install -DskipTests
 ~~~
