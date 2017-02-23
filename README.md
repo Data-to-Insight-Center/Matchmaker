@@ -1,9 +1,9 @@
 Matchmaker 
 ============
 
-Matchmaker is a recommendation tool that selects repositories for depositing a Research Object using Repository and People information.
+Matchmaker is a recommendation tool that selects repositories for depositing data objects (called Research Objects) using information about the object, target repositories, and contributors to the objects creation. This version of Matchmaker is currently in use in the project Sustainable Environments Actionable Data (SEAD) funded by NSF under grant #0940824 to the University of Michigan.
 
-A new improved version of Matchmaker, "Data-MatchMaker", can be fount at https://github.com/Data-to-Insight-Center/Data-MatchMaker. Data-MatchMaker is a flexible and a general purpose matchmaker, and is powered by the state of the art IBM "Drools" rules engine.
+A newly improved version of Matchmaker, called "Data-MatchMaker", is at https://github.com/Data-to-Insight-Center/Data-MatchMaker. Data-MatchMaker is a more flexible and a general purpose matchmaker, and is powered by the state of the art IBM "Drools" rules engine.
 
 Steps to build:
 ---------------
